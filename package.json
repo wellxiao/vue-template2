@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "vue-router": "^3.0.1"
+    "clipboard": "^2.0.4",
+    "moment": "^2.23.0",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
