@@ -13,7 +13,7 @@ export default new Router({
   mode: 'history',
   base,
   routes: [{
-    path: '/',
+    path: '/HelloWorld',
     name: 'HelloWorld',
     meta: {
       title: '欢迎世界！'

@@ -27,7 +27,6 @@ if (ENV === 'pre') {
   base = '/dev-driverAd'
   // base = ''
   sensorEnv = 'default'
-  s
 }
 module.exports = {
   // 基础路径

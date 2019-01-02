@@ -1,6 +1,6 @@
 import {
   picTokenUrl,
-  uploadUrl,
+  uploadUrl
 } from '@/api/common'
 import {
   request
@@ -51,7 +51,7 @@ export default {
         // Vue.$vux.toast.text(e, 'middle')
         return Promise.reject(e)
       }
-    },
+    }
   },
   mutations: {
 
